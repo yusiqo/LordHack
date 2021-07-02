@@ -5,6 +5,7 @@
 # Kanallarımız
 
 [Kanal](https://t.me/LordhackBlog)
+
 [Kanal 2](https://t.me/arsivmedyasi)
 
 # Postlar
