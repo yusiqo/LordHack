@@ -4,7 +4,7 @@
 
 ### İstediğin Kadar aç
 
-'''https://colab.research.google.com/github/PradyumnaKrishna/Colab-Hacks/blob/master/Colab%20RDP/Colab%20RDP.ipynb#scrollTo=Q6bl1b0EifVG'''
+```https://colab.research.google.com/github/PradyumnaKrishna/Colab-Hacks/blob/master/Colab%20RDP/Colab%20RDP.ipynb#scrollTo=Q6bl1b0EifVG```
 
  
 
