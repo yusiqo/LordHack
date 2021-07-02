@@ -2,4 +2,4 @@
 
 ### Hacker Bloguna Hoş Geldin
 
-**Tüm Postlarımız Kanalımızda** [link](https://t.me/LordhackBlog)
+**Tüm Postlarımız Kanalımızda** [Kanalımız](https://t.me/LordhackBlog)
